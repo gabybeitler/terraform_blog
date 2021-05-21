@@ -1,0 +1,4 @@
+- Enable Flow withing Prism Central
+- terraform init
+- terraform plan
+- terraform apply -auto-approve
