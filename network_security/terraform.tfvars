@@ -1,6 +1,0 @@
-cluster_name = "PHX-SPOC008-3"
-subnet_name  = "Primary"
-user         = "admin"
-password     = "nx2Tech706!"
-endpoint     = "10.38.8.137"
-image_uri    = "https://mirror.pkgbuild.com/images/v20210515.22945/Arch-Linux-x86_64-basic-20210515.22945.qcow2"
